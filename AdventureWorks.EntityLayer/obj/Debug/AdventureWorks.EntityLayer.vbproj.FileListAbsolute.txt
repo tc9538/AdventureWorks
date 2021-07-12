@@ -1,0 +1,14 @@
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.pdb
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\Common.Library.dll
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\Common.Library.pdb
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\bin\Debug\Common.Library.xml
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.AssemblyReference.cache
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.Resources.resources
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.GenerateResource.cache
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.CoreCompileInputs.cache
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.vbproj.CopyComplete
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.dll
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.xml
+C:\Users\trucc\source\repos\AdventureWorks\AdventureWorks.EntityLayer\obj\Debug\AdventureWorks.EntityLayer.pdb
